@@ -15,4 +15,7 @@ Repositorio destinado a almacenar todos los desarrollos realizados en directo.
 
 [Link Stream Completo](https://www.youtube.com/live/ANYvtZchYv0?si=tzYSBbVH1eUutsvz)
 - [Agregando imágenes en Tkinter](https://www.youtube.com/live/ANYvtZchYv0?si=Ylhdazr6RhqyWYAu&t=1807)
+**add_image_to_tkinter_19_09_2023.py**
+
 - [Reconocimiento de voz que se almacena en un archivo .txt](https://www.youtube.com/live/ANYvtZchYv0?si=CTNv64eynIHovpIc&t=2618)
+**Speech_recognition_19_09_2023.py**
