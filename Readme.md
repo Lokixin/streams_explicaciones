@@ -1,7 +1,7 @@
 ![Banner](https://yt3.googleusercontent.com/7QVzTTJPg7TYb0vUymh-5Wcx-0wRPrDMGMQhonZQ9rFaWW-LAnGRCe4MCqNc-fSIkjcLg6Fx=w2560-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj)
 # Ejemplos Realizados en Directo
 
-[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCxPD7bsocoAMq8Dj18kmGyQ?style=social)](https://youtube.com/dimasmas?sub_confirmation=1)
+[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCGz-3CI7Wyvgu55SH1uDeNg?style=social)](https://youtube.com/dimasmas?sub_confirmation=1)
 [![Twitter Follow](https://img.shields.io/twitter/follow/tellmore_?style=social)](https://twitter.com/tellmore_)
 ![GitHub Followers](https://img.shields.io/github/followers/Lokixin?style=social)
 ![GitHub Stars](https://img.shields.io/github/stars/Lokixin?style=social)
